@@ -1,6 +1,6 @@
-<a href="#"><p align="center" ><img width="300px" height="300px" src="/hacker.jpg" height="175px"/></p></a>
+<a href="#"><p align="center" ><img width="300px" height="300px" src="/developer.gif" height="175px"/></p></a>
 
-<h1 align="center">Hii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep Kumar Singh </h1>
+<h1 align="center">Hii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit Kumar </h1>
 <h3 align="center"> NIT Patna CSE'24 👩‍🎓 || Aspiring SDE🖋 || Learner</h3>
 <p align="left"> <img border-radius= "50%"  src="https://komarev.com/ghpvc/?username=pradeepks10" alt="ankitkrmehta" /> </p>
 
